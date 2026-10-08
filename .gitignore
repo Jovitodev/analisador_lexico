@@ -1,0 +1,31 @@
+# Binários e resultados de compilação Go
+/bin/
+/jackcompiler
+/jackcompiler.exe
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/coverage/
+/coverage.*
+
+# Saídas geradas nas próximas etapas
+/output/*
+!/output/.gitkeep
+
+# Arquivos temporários e do sistema operacional
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Configurações locais de IDE
+/.idea/
+/.vscode/
