@@ -1,6 +1,7 @@
 # Binários e resultados de compilação Go
 /bin/
 /jackcompiler
+/.tools/
 /jackcompiler.exe
 *.exe
 *.exe~
